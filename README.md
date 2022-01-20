@@ -103,4 +103,4 @@
 - aktywność_4: recenzja prezentacji finalnych (5 pkt.) 
 
 
-* rozliczane grupowo
+\* rozliczane grupowo
