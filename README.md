@@ -86,9 +86,9 @@
   - aktywność_2: opracowanie na zajęciach jednego z najnowszych artykułów na Arxiv pod kątem (Why?, What?, How?), prezentacja (5 pkt.)
   - aktywność_3: recenzja prezentacji w ramach aktywności 2 (2 pkt.) 
   - aktywność_4: recenzja prezentacji finalnych (5 pkt.) 
-- prezentacja końcowa  (16 pkt.)
-- raport końcowy (32 pkt.)
-- stosowanie dobrych praktyk wykorzystania GitHub (4 pkt.)
+- prezentacja końcowa  (16 pkt.*)
+- raport końcowy (32 pkt.*)
+- stosowanie dobrych praktyk wykorzystania GitHub (4 pkt.*)
 
 
 \* rozliczane grupowo
