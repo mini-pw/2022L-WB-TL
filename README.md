@@ -81,7 +81,7 @@
 
 - kamień_milowy_1a: 31.03.2022
 - kamień_milowy_1b: 07.04.2022
-- kamień_milowy_2: 05_05.2022
+- kamień_milowy_2: 05.05.2022
 
 ### Punktacja:
 - praca nad projektem (48 pkt.):
