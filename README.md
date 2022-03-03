@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>11</td>
-    <td> Sieci typu Autoenkoder, GAN, U-net, wyjaśnienia sieci neuronowych, active learning (wysokopoziomowe wyjaśnienie). </td>
+    <td> Prezentacje studentów w ramach kamienia milowego nr 2. </td>
   </tr>
   <tr>
     <td>12</td>
@@ -67,12 +67,12 @@
   </tr>
   <tr>
     <td>14</td>
-    <td> Konsultacje projektowe.</td>
+    <td> Omówienie nagrań z prezentacjami studentów.</td>
   </tr>
 
   <tr>
     <td>15</td>
-    <td> Podsumowanie projektu/konsultacje.</td>
+    <td> Podsumowanie przedmiotu.</td>
   </tr>
 </tbody>
 </table>
