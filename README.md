@@ -77,6 +77,12 @@
 </tbody>
 </table>
 
+### Postęp prac projektowych - terminy weryfikacji
+
+- kamień_milowy_1a: 31.03.2022
+- kamień_milowy_1b: 07.04.2022
+- kamień_milowy_2: 05_05.2022
+
 ### Punktacja:
 - praca nad projektem (48 pkt.):
   - kamień milowy_1a: wstępny przegląd literatury z wybranego obszaru transferu wiedzy, harmonogram prac i podział obowiązków, prezentacja (11 pkt.)*
