@@ -22,12 +22,12 @@
   </tr>
     <tr>
     <td>3</td>
-    <td> Idea i kod sieci konwolucyjnych, w tym popularne architektury: Resnet, VGG, DenseNet oraz zagadnienia augmentacji danych i zjawisko overfittingu. </td>
+    <td> Omówienie kodu algorytmów z obszaru przenoszenia wiedzy. </td>
   </tr>
   <tr>
   <tr>
     <td>4</td>
-    <td> Framework Keras w wersji niskopoziomowej + analogia do Pytorcha (w tym pytorch.lightning). Wady i zalety dwóch frameworków na przykładzie Relation Network. </td>
+    <td> Idea i kod sieci konwolucyjnych, w tym popularne architektury: Resnet, VGG, DenseNet oraz zagadnienia augmentacji danych i zjawisko overfittingu.</td>
   </tr>
   <tr>
     <tr>
@@ -39,15 +39,15 @@
   </tr>
   <tr>
     <td>7</td>
-    <td> Algorytmy: MLP-Mixer, Knowledge Distillation - skeptical student. </td>
+    <td> Framework Keras w wersji niskopoziomowej + analogia do Pytorcha (w tym pytorch.lightning). Wady i zalety dwóch frameworków na przykładzie Relation Network. </td>
   </tr>
   <tr>
     <td>8</td>
-    <td> Algorytm Multiple-instance learning. </td>
+    <td> Algorytmy: MLP-Mixer, Knowledge Distillation - skeptical student.</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>  Algorytm adaptacji w przypadku continual learning. </td>
+    <td>  Algorytm Multiple-instance learning. </td>
   </tr>
     <tr>
     <td>10</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>13</td>
-    <td> Konsultacje projektowe.</td>
+    <td> Algorytm adaptacji w przypadku continual learning.</td>
   </tr>
   <tr>
     <td>14</td>
